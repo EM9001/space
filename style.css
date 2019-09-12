@@ -7,17 +7,22 @@ body {
   height: 100%;
 }
 hr {
-
+  width: 70%;
+  height: 5px;
+  background-color: black;
+  border: none;
 }
 
 .banner{
-  width: auto;
+  width: 70%;
   text-align: center;
   color: white;
   background-color: black;
   border-radius: 20px;
   box-shadow: 0px 0px 10px 10px;
+  margin: 0 auto;
 }
+
 
 .main_prompt{
   width: 70%;
