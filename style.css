@@ -6,8 +6,12 @@ body {
   background-attachment: fixed;
   height: 100%;
 }
+hr {
+
+}
 
 .banner{
+  width: auto;
   text-align: center;
   color: white;
   background-color: black;
