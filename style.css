@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  background-image: repeating-linear-gradient(45deg, #555, #555 20px, #777 20px, #777 40px);
+  background-attachment: fixed;
+  height: 100%;
+}
+
+.banner{
+  text-align: center;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px 10px;
+}
+
+.main_prompt{
+  width: 70%;
+  background-color: #FFF;
+  margin: 50px auto;
+  padding: 15px;
+  overflow: auto;
+  border-radius: 20px 0px 20px 0px;
+
+}
+
+.main_prompt p{
+  margin-top: 0;
+}
